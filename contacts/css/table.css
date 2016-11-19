@@ -1,0 +1,28 @@
+table, td, th{
+    border: 1px solid #d5d5ff;
+    border-collapse: collapse;
+    font-family: arial, sans-serif;
+    font-size: 11pt;
+}
+
+th{
+    border-bottom: 3px solid #d5d5ff;
+    background-color: #5c719d;
+    color: #000;
+}
+
+td{
+    border-bottom: 1px solid #d5d5ff;
+    text-align: center;
+    color: #fffff;
+}
+
+tr{
+    background-color: #E8E8E8 ;
+}
+tr:hover{
+    background-color: #fff;
+}
+td,th{
+    padding: 5px;
+}

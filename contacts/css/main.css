@@ -1,0 +1,162 @@
+body{background: #fff; margin: 40px 0px 0px 0px;}
+#header{
+    top: 0px;
+    left:0px;
+    height: 88px;
+    width: 100%;
+    background-color: #009688;
+    color:#fff;
+}
+
+.header-text{
+    margin:  0px 0px 0px 15px;
+    font-size: 25px;
+}
+.header-login{
+    margin:  0px 0px 0px 15px;
+    font-size: 50px;
+	padding: 20px;
+}
+
+#container{
+    height: auto;
+    width: 30%;
+    margin: 50px auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+#myform{
+    height: auto;
+    width: 22%;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+#container2{
+    height: auto;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+#container3{
+    height: auto;
+    width: 66%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+#container4{
+    height: auto;
+    width: 900px;
+    margin: 50px auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+#container5{
+    height: auto;
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+    border: 2px solid #d5d5ff;
+    padding: 10px;
+}
+.form_head{
+    border-bottom: 1px solid #d5d5ff;
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#btn
+{
+  border: 1px solid #777777;
+  background: #3A5795;
+  color: white;
+  font: bold 11px 'Trebuchet MS';
+  padding: 10px 35px 10px 35px;
+  cursor: pointer;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+#btn:hover
+{
+  border: 1px solid #777777;
+  background:#75D9FA;
+  color: white;
+  font: bold 11px 'Trebuchet MS';
+  padding: 10px 35px 10px 35px;
+  cursor: pointer;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+#btnc
+{
+  border: 1px solid #777777;
+  background: #3A5795;
+  color: white;
+  font: bold 11px 'Trebuchet MS';
+  padding: 10px 35px 10px 35px;
+  cursor: pointer;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  float: right;
+}
+
+#btnc:hover
+{
+  border: 1px solid #777777;
+  background: #75D9FA;
+  color: white;
+  font: bold 11px 'Trebuchet MS';
+  padding: 10px 35px 10px 35px;
+  cursor: pointer;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+
+#menu-modal{
+    padding:9px 15px 9px;
+    border-bottom:1px solid #ccc;
+}
+.home-image{
+    width: 45%;
+    height: 40%;
+    margin-left: 15px;
+}
+.text-for-image{
+    float: left;
+    width: 45%;
+    height: auto;
+    border: 0px solid #ccc;
+    border-right: 1px solid #ccc; 
+    padding-left: 30px;
+    text-align: justify;
+    padding-right: 10px;
+}
+.form-control{
+    width: 80%
+}
+.error_strings{
+    color: #f00;
+    font-size: 14px;
+    font-family: 'Trebuchet MS';
+}
+.success_strings{
+    color: #080 !important;
+    font-size: 14px;
+    font-family: 'Trebuchet MS';
+}
+.dialog{
+  border: 2px solid #d5d5ff;
+  padding:10px;
+  background:#FFF;
+  position:absolute;
+  display:none;
+  margin-left: 20%;
+  margin-top: 15px;
+  z-index: 1000;
+  width: 
+}
