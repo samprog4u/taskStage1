@@ -11,12 +11,12 @@ It makes it easier for people to create email contacts without dupplication.
 of emails and a modification section is available for typed error or some other
 errors.
 
-SYSTEM REQUIREMENTS
+ # SYSTEM REQUIREMENTS
 
 Apache 5+ or later
 Windows/Linus/Unix OS
 
-HOW TO SET UP APACHE
+# HOW TO SET UP APACHE
 
 Step 1. Launch your apache server e.g Wampserver
 
@@ -30,7 +30,7 @@ Step 5. Click php_sqlite3 and make sure it is checked (it will mark it)
 
 Step 6. Re-start your apache server.
 
-HOW TO CONFIGURE THE FILE
+# HOW TO CONFIGURE THE FILE
 
 1. Download the zip file from github repository
 2. Unzip the file and find to copy a directory name "contacts"
